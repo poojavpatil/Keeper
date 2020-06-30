@@ -2,6 +2,7 @@
 
 
 |Notes| Note Pop-up|
+|---|---|
 |![](Keeper-React.PNG)| ![](Keeper-React-2.PNG)|
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
